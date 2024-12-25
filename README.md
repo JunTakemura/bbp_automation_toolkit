@@ -181,7 +181,7 @@ Distributed under the AGPLv3 License. See `LICENSE.txt` for more information.
 
 Jun Takemura - [@juntakemura_dev](https://x.com/juntakemura_dev) - juntakemura.swifter580@slmails.com
 
-Project Link: [https://github.com/JunTakemura/link](https://github.com/JunTakemura/link)
+Project Link: [https://github.com/JunTakemura/bbp_automation_toolkit](https://github.com/JunTakemura/bbp_automation_toolkit)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
