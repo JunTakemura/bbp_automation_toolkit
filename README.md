@@ -20,10 +20,10 @@
 
 -->
 
-<h3 align="center">Title</h3>
+<h3 align="center">Automation Toolkit for Bug Bounty</h3>
 
   <p align="center">
-    Description
+    Some tools for bbp
     <br />
     <!--
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
